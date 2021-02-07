@@ -15,6 +15,8 @@
 <img src="https://github.com/namandangi/wsi/blob/main/doc/wsiUnsupervisedArch.jpeg">
 
 <h3> Popular Publicly available Datasets for WSIs </h3>
+</div>
+<div>
 <ul>
   <li> IPCR 2012 </li>
   <li> IPCR 2014 </li>
